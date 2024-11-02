@@ -5,8 +5,8 @@
      "title": "Молочная девочка",
      "description": "Воздушные, пористые коржи с легким, нежным сливочным кремом.",
      "price": {
-       "priceSmall":"5500"
-       "priceMedium":"7000"
+       "priceSmall":"5500",
+       "priceMedium":"7000",
        "priceBig":"8500"
      }
    },
@@ -15,8 +15,8 @@
      "title": "Молочная девочка",
      "description": "Воздушные, пористые коржи с легким, нежным сливочным кремом.",
      "price": {
-       "priceSmall":"5500"
-       "priceMedium":"7000"
+       "priceSmall":"5500",
+       "priceMedium":"7000",
        "priceBig":"8500"
      }
      
@@ -26,8 +26,8 @@
      "title": "Молочная девочка",
      "description": "Воздушные, пористые коржи с легким, нежным сливочным кремом.",
      "price": {
-       "priceSmall":"5500"
-       "priceMedium":"7000"
+       "priceSmall":"5500",
+       "priceMedium":"7000",
        "priceBig":"8500"
      }
      
