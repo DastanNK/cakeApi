@@ -8,6 +8,11 @@
        "priceSmall":"5500",
        "priceMedium":"7000",
        "priceBig":"8500"
+     },
+     "weight": {
+       "weightSmall":"650",
+       "weightMedium":"1000",
+       "weightBig":"1300"
      }
    },
    {
@@ -18,6 +23,11 @@
        "priceSmall":"5500",
        "priceMedium":"7000",
        "priceBig":"8500"
+     },
+     "weight": {
+       "weightSmall":"600",
+       "weightMedium":"1100",
+       "weightBig":"1500"
      }
      
    },
@@ -29,6 +39,11 @@
        "priceSmall":"5500",
        "priceMedium":"7000",
        "priceBig":"8500"
+     },
+     "weight": {
+       "weightSmall":"720",
+       "weightMedium":"1100",
+       "weightBig":"1800"
      }
      
    }
