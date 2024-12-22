@@ -13,7 +13,8 @@
        "weightSmall":"650",
        "weightMedium":"1000",
        "weightBig":"1300"
-     }
+     },
+    "image": "https://firebasestorage.googleapis.com/v0/b/cake-42666.firebasestorage.app/o/image%2FRectangle%201706.png?alt=media&token=4abe383f-f5f6-4cba-bcc8-08618699b93f"
    },
    {
      "id": "2",
@@ -28,7 +29,8 @@
        "weightSmall":"600",
        "weightMedium":"1100",
        "weightBig":"1500"
-     }
+     },
+    "image": "https://firebasestorage.googleapis.com/v0/b/cake-42666.firebasestorage.app/o/image%2FRectangle%201707%20(1).png?alt=media&token=0732130e-3f49-4241-8f3b-3399ba1f5633"
      
    },
    {
@@ -44,7 +46,8 @@
        "weightSmall":"720",
        "weightMedium":"1100",
        "weightBig":"1800"
-     }
+     },
+    "image": "https://firebasestorage.googleapis.com/v0/b/cake-42666.firebasestorage.app/o/image%2FRectangle%201707.png?alt=media&token=b28707fc-6964-4e22-8c0c-e61f3b77f3af"
      
    }
  ]
